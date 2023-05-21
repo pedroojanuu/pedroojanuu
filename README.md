@@ -8,7 +8,7 @@ Born in Porto, Portugal. Currently studying at <a href="http://up.pt">University
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 |[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Project 1](https://github.com/pedroojanuu/aedproj1)|A L.EIC Students timetable manager.|18.83|
 |[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Project 2](https://github.com/pedroojanuu/aedproj2)|A flight route and network statistics calculator.|19.60|
-|[LDTS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501676)|[Space Invaders](https://github.com/pedroojanuu/spaceinvaders)|A Space Invaders recriation in Java.|18.1|
+|[LDTS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501676)|[Space Invaders](https://github.com/pedroojanuu/spaceinvaders)|A Space Invaders recriation in Java.|18.10|
 |[DA](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501678)|[Project 1](https://github.com/pedroojanuu/daproj1)|An Analysis Tool for Railway Network Management.||
 
 <h2>Contact me</h2>
