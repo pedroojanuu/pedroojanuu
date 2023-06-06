@@ -4,14 +4,16 @@ Born in Porto, Portugal. Currently studying at <a href="http://up.pt">University
 
 <h2>Academic Portfolio</h2>
 
-|UC|Name|Description|Grade (/20)|
-|------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-|[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Project 1](https://github.com/pedroojanuu/aedproj1)|A L.EIC Students timetable manager.|18.83|
-|[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Project 2](https://github.com/pedroojanuu/aedproj2)|A flight route and network statistics calculator.|19.60|
-|[LDTS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501676)|[Space Invaders](https://github.com/pedroojanuu/spaceinvaders)|A Space Invaders recriation in Java.|18.10|
-|[DA](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501678)|[Project 1](https://github.com/pedroojanuu/daproj1)|An Analysis Tool for Railway Network Management.|16.73|
-|[LTW](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501681)|[Dá-lhe Ticket](https://github.com/pedroojanuu/dalheticket)|A Trouble Ticket engine about Portuguese public transportation.|16.40|
-|[ES](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501679)|[Teach Me Well](https://github.com/pedroojanuu/teachmewell)|A mobile app for rating University of Porto teachers.|19.40|
+|UC|Name|Description|Programming Language(s)|Grade (/20)|
+|------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|------------|
+|[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Project 1](https://github.com/pedroojanuu/aedproj1)|A L.EIC Students timetable manager.|C++|18.83|
+|[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Project 2](https://github.com/pedroojanuu/aedproj2)|A flight route and network statistics calculator.|C++|19.60|
+|[LDTS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501676)|[Space Invaders](https://github.com/pedroojanuu/spaceinvaders)|A Space Invaders recriation.|Java|18.10|
+|[DA](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501678)|[Project 1](https://github.com/pedroojanuu/daproj1)|An Analysis Tool for Railway Network Management.|C++|16.73|
+|[DA](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501678)|[Project 2](https://github.com/pedroojanuu/daproj2)|Brute-force w/ backtracking, triangular approach, 2-opt and 3-opt [Travelling Salesperson Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) algorithms.|C++||
+|[LTW](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501681)|[Dá-lhe Ticket](https://github.com/pedroojanuu/dalheticket)|A Trouble Ticket engine about Portuguese public transportation.|PHP/JS|16.40|
+|[ES](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501679)|[Teach Me Well](https://github.com/pedroojanuu/teachmewell)|A mobile app for rating University of Porto teachers.|Dart (Flutter)|19.40|
+|[LC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501680)|[Space Invaders](https://github.com/pedroojanuu/minixinvaders)|A Space Invaders recriation for MINIX3 OS.|C||
 
 <h2>Contact me</h2>
 
