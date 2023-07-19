@@ -1,6 +1,6 @@
 <h1>Pedro Januário</h1>
 
-Born in Porto, Portugal. Currently studying at <a href="http://up.pt">University of Porto</a>, in the <a href="https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2022&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=22841">Bachelor in Informatics and Computing Engineering</a>.
+Born in Porto, Portugal. Currently studying <a href="https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2022&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=22841">Bachelor in Informatics and Computing Engineering</a>, at <a href="http://up.pt">University of Porto</a>.
 
 <h2>Academic Portfolio</h2>
 
