@@ -1,22 +1,24 @@
 <h1>Pedro Januário</h1>
 
-Born in Porto, Portugal. Currently studying <a href="https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2022&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=22841">Bachelor in Informatics and Computing Engineering</a>, at <a href="http://up.pt">University of Porto</a>.
+Nascido no Porto, em Portugal. Atualmente a frequentar a <a href="https://sigarra.up.pt/feup/pt/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2022&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=22841">Licenciatura em Engenharia Informática e Computação</a>, na <a href="http://up.pt">Universidade do Porto</a>.
 
-<h2>Academic Portfolio</h2>
+_Born in Porto, Portugal. Currently studying <a href="https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2022&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=22841">Bachelor in Informatics and Computing Engineering</a>, at <a href="http://up.pt">University of Porto</a>._
 
-|UC|Name|Description|Programming Language(s)|Grade (/20)|
+<h2>Portfólio Académico/Academic Portfolio</h2>
+
+|UC<br>_Course_|Nome<br>_Name_|Descrição<br>_Description_|Linguagem(s) de Programação<br>_Programming Language(s)_|Nota (/20)<br>_Grade (/20)_|
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|------------|
-|[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Project 1](https://github.com/pedroojanuu/aedproj1)|A L.EIC Students timetable manager.|C++|18.83|
-|[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Project 2](https://github.com/pedroojanuu/aedproj2)|A flight route and network statistics calculator.|C++|19.60|
-|[LDTS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501676)|[Space Invaders](https://github.com/pedroojanuu/spaceinvaders)|A Space Invaders recriation.|Java|18.10|
-|[SO](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501677)|[Exercises](https://github.com/pedroojanuu/tpso)|3 Unix exercises comprehending text manipulation, file compression and inter-process communication.|C|19.00|
-|[DA](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501678)|[Project 1](https://github.com/pedroojanuu/daproj1)|An Analysis Tool for Railway Network Management.|C++|16.73|
-|[DA](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501678)|[Project 2](https://github.com/pedroojanuu/daproj2)|Brute-force w/ backtracking, triangular approach, 2-opt and 3-opt [Travelling Salesperson Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) algorithms.|C++|18.35|
-|[LTW](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501681)|[Dá-lhe Ticket](https://github.com/pedroojanuu/dalheticket)|A Trouble Ticket engine about Portuguese public transportation.|PHP/JS|16.40|
-|[ES](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501679)|[Teach Me Well](https://github.com/pedroojanuu/teachmewell)|A mobile app for rating University of Porto teachers.|Dart (Flutter)|19.40|
-|[LC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501680)|[Space Invaders](https://github.com/pedroojanuu/minixinvaders)|A Space Invaders recriation for MINIX3 OS.|C|17.45|
+|[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Projeto 1<br>_Project 1_](https://github.com/pedroojanuu/aedproj1)|Gestor de horário de estudantes da L.EIC.<br>_A L.EIC Students timetable manager._|C++|18.83|
+|[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Projeto 2<br>_Project 2_](https://github.com/pedroojanuu/aedproj2)|Gerador de rotas de voo e estatísticas de rede de transportes aéreos.<br>_A flight route and air transport network statistics calculator._|C++|19.60|
+|[LDTS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501676)|[_Space Invaders_](https://github.com/pedroojanuu/spaceinvaders)|Uma recriação do jogo _Space Invaders_.<br>_A_ Space Invaders _game recriation._|Java|18.10|
+|[SO](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501677)|[Exercícios<br>_Exercises_](https://github.com/pedroojanuu/tpso)|3 exercícios para Unix envolvendo manipulação de texto, compressão de ficheiros e comunicação inter-processos.<br>_3 Unix exercises comprehending text manipulation, file compression and inter-process communication._|C|19.00|
+|[DA](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501678)|[Projeto 1<br>_Project 1_](https://github.com/pedroojanuu/daproj1)|Uma ferramenta de análise para a gestão de uma rede ferroviária.<br>_An Analysis Tool for Railway Network Management._|C++|16.73|
+|[DA](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501678)|[Projeto 2<br>_Project 2_](https://github.com/pedroojanuu/daproj2)|Estratégias de força bruta com _backtracking_, aproximação triangular, _2-opt_ e _3-opt_ para o [_Travelling Salesperson Problem_](https://pt.wikipedia.org/wiki/Problema_do_caixeiro-viajante).<br>_Brute-force w/ backtracking, triangular approach, 2-opt and 3-opt [Travelling Salesperson Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) algorithms._|C++|18.35|
+|[LTW](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501681)|[_Dá-lhe Ticket_](https://github.com/pedroojanuu/dalheticket)|Uma ferramenta de _Trouble Tickets_ acerca de transportes públicos portugueses.<br>_A Trouble Ticket engine about Portuguese public transportation._|PHP/JS|16.40|
+|[ES](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501679)|[_TeachMeWell_](https://github.com/pedroojanuu/teachmewell)|Aplicação móvel de avaliação de docentes da Universidade do Porto.<br>_A mobile app for rating University of Porto teachers._|Flutter/Dart|19.40|
+|[LC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501680)|[_Space Invaders_](https://github.com/pedroojanuu/minixinvaders)|Recriação do jogo _Space Invaders_ para o sistema operativo MINX3.<br>_A Space Invaders recriation for MINIX3 OS._|C|17.45|
 
-<h2>Contact me</h2>
+<h2>Contactar-me/Contact me</h2>
 
 <a href="mailto:up202108768@up.pt">
   <img width=20 title="Email" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Symbol-User-Email-Icon.png"/>
