@@ -20,6 +20,9 @@ _Born in Porto, Portugal. Currently studying <a href="https://sigarra.up.pt/feup
 
 <h2>Contactar-me/Contact me</h2>
 
+<a href="mailto:psjvieira@gmail.com">
+  <img width=20 title="Email" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Symbol-User-Email-Icon.png"/>
+</a>
 <a href="mailto:up202108768@up.pt">
   <img width=20 title="Email" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Symbol-User-Email-Icon.png"/>
 </a>
