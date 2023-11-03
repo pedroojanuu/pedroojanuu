@@ -6,7 +6,7 @@ _Born in Porto, Portugal. Currently studying <a href="https://sigarra.up.pt/feup
 
 <h2>Portfólio Académico/Academic Portfolio</h2>
 
-|UC<br>_Course_|Nome<br>_Name_|Descrição<br>_Description_|Linguagem(s) de Programação<br>_Programming Language(s)_|Nota (/20)<br>_Grade (/20)_|
+|UC<br>_Course_|Nome<br>_Name_|Descrição<br>_Description_|Linguagem(ns) de Programação/Tecnologia(s)<br>_Programming Language(s)/Tecnology(ies)_|Nota (/20)<br>_Grade (/20)_|
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|------------|
 |[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Projeto 1<br>_Project 1_](https://github.com/pedroojanuu/aedproj1)|Gestor de horário de estudantes da L.EIC.<br>_A L.EIC Students timetable manager._|C++|18.83|
 |[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Projeto 2<br>_Project 2_](https://github.com/pedroojanuu/aedproj2)|Gerador de rotas de voo e estatísticas de rede de transportes aéreos.<br>_A flight route and air transport network statistics calculator._|C++|19.60|
