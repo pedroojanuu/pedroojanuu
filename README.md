@@ -1,10 +1,10 @@
-<h1>Pedro Januário</h1>
+# Pedro Januário
 
 Natural do Porto, em Portugal. Atualmente a frequentar a <a href="https://sigarra.up.pt/feup/pt/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2022&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=22841">Licenciatura em Engenharia Informática e Computação</a>, na <a href="http://up.pt">Universidade do Porto</a>.
 
 _Born in Porto, Portugal. Currently studying <a href="https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2022&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=22841">Bachelor in Informatics and Computing Engineering</a>, at <a href="http://up.pt">University of Porto</a>._
 
-<h2>Portfólio Académico/Academic Portfolio</h2>
+## Portfólio Académico/_Academic Portfolio_
 
 |UC<br>_Course_|Nome<br>_Name_|Descrição<br>_Description_|Linguagem(ns) de Programação/Tecnologia(s)<br>_Programming Language(s)/Tecnology(ies)_|Nota (/20)<br>_Grade (/20)_|
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|------------|
@@ -20,7 +20,7 @@ _Born in Porto, Portugal. Currently studying <a href="https://sigarra.up.pt/feup
 |[PFL](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520329)|[_Shakti_](https://github.com/pedroojanuu/shakti)|Implementação do jogo _Shakti_ em Prolog.<br>_A Prolog_ Shakti _implementation._|Prolog||
 |[RC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520330)|[Trabalho Prático 1<br>_Practical Assignment 1_](https://github.com/pedroojanuu/rcproj1)|Protocolo de transmissão de ficheiro entre duas máquinas via porta-série.<br>_File transfer between two machines via serial port._|C||
 
-<h2>Contactar-me/Contact me</h2>
+## Contactar-me/_Contact me_
 
 <a href="mailto:psjvieira@gmail.com">
   <img width=20 title="Email" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Symbol-User-Email-Icon.png"/>
