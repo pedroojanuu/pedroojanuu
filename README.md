@@ -17,8 +17,7 @@ _Born in Porto, Portugal. Currently studying <a href="https://sigarra.up.pt/feup
 |[LTW](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501681)|[_Dá-lhe Ticket_](https://github.com/pedroojanuu/dalheticket)|Uma ferramenta de _Trouble Tickets_ acerca de transportes públicos portugueses.<br>_A Trouble Ticket engine about Portuguese public transportation._|PHP/JS|16.40|
 |[ES](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501679)|[_TeachMeWell_](https://github.com/pedroojanuu/teachmewell)|Aplicação móvel de avaliação de docentes da Universidade do Porto.<br>_A mobile app for rating University of Porto teachers._|Flutter/Dart|19.40|
 |[LC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501680)|[_Space Invaders_](https://github.com/pedroojanuu/minixinvaders)|Recriação do jogo _Space Invaders_ para o sistema operativo MINX3.<br>_A_ Space Invaders _recriation for MINIX3 OS._|C|17.45|
-|[PFL](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520329)|[_Shakti_](https://github.com/pedroojanuu/shakti)|Implementação do jogo _Shakti_ em Prolog.<br>_A Prolog_ Shakti _implementation._|Prolog||
-|[RC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520330)|[Trabalho Prático 1<br>_Practical Assignment 1_](https://github.com/pedroojanuu/rcproj1)|Protocolo de transmissão de ficheiro entre duas máquinas via porta-série.<br>_File transfer between two machines via serial port._|C||
+|[PFL](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520329)|[_Shakti_](https://github.com/pedroojanuu/shakti)|Implementação do jogo _Shakti_ em Prolog.<br>_A Prolog_ Shakti _implementation._|Prolog|15.89|
 
 <h2>Contactar-me/Contact me</h2>
 
