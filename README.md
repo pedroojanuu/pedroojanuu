@@ -9,7 +9,7 @@ _Born in Porto, Portugal. Currently studying <a href="https://sigarra.up.pt/feup
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroojanuu&locale=pt-pt&layout=compact">
 </div>
 
-## Portfólio Académico/Academic Portfolio
+## Portfólio Académico/_Academic Portfolio_
 
 |UC<br>_Course_|Nome<br>_Name_|Descrição<br>_Description_|Linguagem(ns) de Programação/Tecnologia(s)<br>_Programming Language(s)/Tecnology(ies)_|Nota (/20)<br>_Grade (/20)_|
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|------------|
@@ -27,6 +27,7 @@ _Born in Porto, Portugal. Currently studying <a href="https://sigarra.up.pt/feup
 |[LBAW](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520328)|[RedHot](https://github.com/pedroojanuu/redhot)|_Website_ de uma loja fictícia de produtos picantes e relacionados.<br>_A website for a fictional hot sauces and related products store._|Laravel/PHP|18.20|
 |[RC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520330)|[Trabalho Prático 1<br>_Practical Assignment 1_](https://github.com/pedroojanuu/rc_tp1)|Protocolo de transmissão de ficheiro entre duas máquinas via porta-série.<br>_File transfer between two machines via serial port._|C|17.50|
 |[RC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520330)|[Trabalho Prático 2<br>_Practical Assignment 2_](https://github.com/pedroojanuu/rc_tp2)|Aplicação de download por FTP e relatório de experiências de configuração de uma rede de computadores com duas bridges, dois routers e NAT.<br>_FTP download application and setup report of a computer network with two bridges, two routers and NAT._|C|17.40|
+|[CPD](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520333)|[Trabalho de Computação Paralela<br>_Parallel Computing Assignment_](https://github.com/pedroojanuu/parallel)|Implementação e avaliação de performance de algoritmos, sequenciais e com paralelismo, de multiplicação de duas matrizes quadradas.<br>_Implementation and performance analysis of sequential and parallel solutions for multiplying two square matrices._|C++/Java|17.20|
 
 ## Contactar-me/_Contact me_
 
