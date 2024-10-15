@@ -1,45 +1,32 @@
 # Pedro Januário
 
-Natural do Porto, em Portugal. Atualmente a frequentar a <a href="https://sigarra.up.pt/feup/pt/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2022&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=22841">Licenciatura em Engenharia Informática e Computação</a>, na <a href="http://up.pt">Universidade do Porto</a>.
+Born in Porto, Portugal. Currently enrolled in the <a href="https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2022&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=22841">Master's Degree in Informatics and Computing Engineering</a>, at <a href="http://up.pt/portal/en">University of Porto</a>.
 
-_Born in Porto, Portugal. Currently studying <a href="https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2022&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=22841">Bachelor in Informatics and Computing Engineering</a>, at <a href="http://up.pt">University of Porto</a>._
+## Academic Portfolio
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroojanuu&show_icons=true&locale=pt-pt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroojanuu&locale=pt-pt&layout=compact">
-</div>
-
-## Portfólio Académico/_Academic Portfolio_
-
-|UC<br>_Course_|Nome<br>_Name_|Descrição<br>_Description_|Linguagem(ns) de Programação/Tecnologia(s)<br>_Programming Language(s)/Tecnology(ies)_|Nota (/20)<br>_Grade (/20)_|
+|Course|Name|Description|Programming Language(s)/Tecnology(ies)|Grade (/20)|
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|------------|
-|[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Projeto 1<br>_Project 1_](https://github.com/pedroojanuu/aedproj1)|Gestor de horário de estudantes da L.EIC.<br>_A L.EIC Students timetable manager._|C++|18.83|
-|[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Projeto 2<br>_Project 2_](https://github.com/pedroojanuu/aedproj2)|Gerador de rotas de voo e estatísticas de rede de transportes aéreos.<br>_A flight route and air transport network statistics calculator._|C++|19.60|
-|[LDTS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501676)|[_Space Invaders_](https://github.com/pedroojanuu/spaceinvaders)|Uma recriação do jogo _Space Invaders_.<br>_A_ Space Invaders _game recriation._|Java|18.10|
-|[SO](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501677)|[Exercícios<br>_Exercises_](https://github.com/pedroojanuu/tpso)|3 exercícios para Unix envolvendo manipulação de texto, compressão de ficheiros e comunicação inter-processos.<br>_3 Unix exercises comprehending text manipulation, file compression and inter-process communication._|C|19.00|
-|[DA](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501678)|[Projeto 1<br>_Project 1_](https://github.com/pedroojanuu/daproj1)|Uma ferramenta de análise para a gestão de uma rede ferroviária.<br>_An Analysis Tool for Railway Network Management._|C++|16.73|
-|[DA](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501678)|[Projeto 2<br>_Project 2_](https://github.com/pedroojanuu/daproj2)|Estratégias de força bruta com _backtracking_, aproximação triangular, _2-opt_ e _3-opt_ para o [_Travelling Salesperson Problem_](https://pt.wikipedia.org/wiki/Problema_do_caixeiro-viajante).<br>_Brute-force w/ backtracking, triangular approach, 2-opt and 3-opt [Travelling Salesperson Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) algorithms._|C++|18.35|
-|[LTW](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501681)|[_Dá-lhe Ticket_](https://github.com/pedroojanuu/dalheticket)|Uma ferramenta de _Trouble Tickets_ acerca de transportes públicos portugueses.<br>_A Trouble Ticket engine about Portuguese public transportation._|PHP, JS|16.40|
-|[ES](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501679)|[_TeachMeWell_](https://github.com/pedroojanuu/teachmewell)|Aplicação móvel de avaliação de docentes da Universidade do Porto.<br>_A mobile app for rating University of Porto teachers._|Flutter/Dart|19.40|
-|[LC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501680)|[_Space Invaders_](https://github.com/pedroojanuu/minixinvaders)|Recriação do jogo _Space Invaders_ para o sistema operativo MINX3.<br>_A_ Space Invaders _recriation for MINIX3 OS._|C|17.45|
-|[PFL](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520329)|[_Shakti_](https://github.com/pedroojanuu/shakti)|Implementação do jogo _Shakti_ em Prolog.<br>_A Prolog_ Shakti _implementation._|Prolog|15.89|
-|[PFL](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520329)|[_Parser_, _Assembler_ e Compilador](https://github.com/pedroojanuu/pfl)|_Parser_, compilador e _assembler_ para uma pequena linguagem de programação imperativa fictícia.<br>_Parser, compiler and assembler for a small fictional imperative programming language._|Haskell|19.13|
-|[LBAW](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520328)|[_RedHot_](https://github.com/pedroojanuu/redhot)|_Website_ de uma loja fictícia de produtos picantes e relacionados.<br>_A website for a fictional hot sauces and related products store._|PHP (Laravel), JS|18.20|
-|[RC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520330)|[Trabalho Prático 1<br>_Practical Assignment 1_](https://github.com/pedroojanuu/rc_tp1)|Protocolo de transmissão de ficheiro entre duas máquinas via porta-série.<br>_File transfer between two machines via serial port._|C|17.50|
-|[RC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520330)|[Trabalho Prático 2<br>_Practical Assignment 2_](https://github.com/pedroojanuu/rc_tp2)|Aplicação de download por FTP e relatório de experiências de configuração de uma rede de computadores com duas bridges, dois routers e NAT.<br>_FTP download application and setup report of a computer network with two bridges, two routers and NAT._|C|17.40|
-|[CPD](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520333)|[Trabalho de Computação Paralela<br>_Parallel Computing Assignment_](https://github.com/pedroojanuu/parallel)|Implementação e avaliação de performance de algoritmos, sequenciais e com paralelismo, de multiplicação de duas matrizes quadradas.<br>_Implementation and performance analysis of sequential and parallel solutions for multiplying two square matrices._|C++, Java|17.20|
-|[CPD](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520333)|[Trabalho de Computação Distribuída<br>_Distributed Computing Assignment_](https://github.com/pedroojanuu/distributed)|Cliente e servidor para partidas multi-jogador.<br>_Client and server for multi-player games._|Java|17.45|
-|[C](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520331)|[Compilador de Java--<br>_Java-- Compiler_](https://github.com/pedroojanuu/javamm)|Compilador para um subconjunto da linguagem Java. Geração da AST, análise semântica, geração de OLLIR e de Jasmin.<br>_Compiler for a subset of the Java language. AST generation, semantic analysis and OLLIR and Jasmin generation._|Java|20.00|
-|[CG](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520332)|[Computação Gráfica<br>_Computer Graphics_](https://github.com/pedroojanuu/cg2024)|Conjunto de exercícios práticos em WebGL.<br>_Set of exercises in WebGL._|JavaScript|18.00|
+|[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Project 1](https://github.com/pedroojanuu/aedproj1)|A L.EIC Students timetable manager.|C++|18.83|
+|[AED](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501673)|[Project 2](https://github.com/pedroojanuu/aedproj2)|A flight route and air transport network statistics calculator.|C++|19.60|
+|[LDTS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501676)|[_Space Invaders_](https://github.com/pedroojanuu/spaceinvaders)|A _Space Invaders_ game recriation.|Java|18.10|
+|[SO](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501677)|[Exercises](https://github.com/pedroojanuu/tpso)|3 Unix exercises comprehending text manipulation, file compression and inter-process communication.|C|19.00|
+|[DA](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501678)|[Project 1](https://github.com/pedroojanuu/daproj1)|An Analysis Tool for Railway Network Management.|C++|16.73|
+|[DA](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501678)|[Project 2](https://github.com/pedroojanuu/daproj2)|Brute-force w/ backtracking, triangular approach, 2-opt and 3-opt algorithms for the [Travelling Salesperson Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)|C++|18.35|
+|[LTW](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501681)|[_Dá-lhe Ticket_](https://github.com/pedroojanuu/dalheticket)|A fictional trouble ticket website for Portuguese public transportation.|PHP, JS|16.40|
+|[ES](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501679)|[_TeachMeWell_](https://github.com/pedroojanuu/teachmewell)|A mobile app for rating University of Porto teachers.|Flutter/Dart|19.40|
+|[LC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501680)|[_Space Invaders_](https://github.com/pedroojanuu/minixinvaders)|A _Space Invaders_ recriation for MINIX3 OS.|C|17.45|
+|[PFL](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520329)|[_Shakti_](https://github.com/pedroojanuu/shakti)|A Prolog _Shakti_ implementation.|Prolog|15.89|
+|[PFL](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520329)|[Parser, Assembler and Compiler](https://github.com/pedroojanuu/pfl)|Parser, compiler and assembler for a small fictional imperative programming language.|Haskell|19.13|
+|[LBAW](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520328)|[_RedHot_](https://github.com/pedroojanuu/redhot)|A website for a fictional hot sauces and related products store.|Laravel/PHP, JS|18.20|
+|[RC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520330)|[Practical Assignment 1](https://github.com/pedroojanuu/rc_tp1)|File transfer between two machines via serial port.|C|17.50|
+|[RC](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520330)|[Practical Assignment 2](https://github.com/pedroojanuu/rc_tp2)|FTP download application and setup report of a computer network with two bridges, two routers and NAT.|C|17.40|
+|[CPD](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520333)|[Parallel Computing Assignment](https://github.com/pedroojanuu/parallel)|Implementation and performance analysis of sequential and parallel solutions for multiplying two square matrices.|C++, Java|17.20|
+|[CPD](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520333)|[Distributed Computing Assignment](https://github.com/pedroojanuu/distributed)|Client and server for multi-player games.|Java|17.45|
+|[C](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520331)|[Java-- Compiler](https://github.com/pedroojanuu/javamm)|Compiler for a subset of the Java language. Comprises AST generation, semantic analysis and OLLIR and Jasmin generation.|Java|20.00|
+|[CG](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520332)|[Computer Graphics Assignments](https://github.com/pedroojanuu/cg2024)|Set of WebGL exercises.|WebGL/JavaScript|18.00|
 
-## Contactar-me/_Contact me_
+## Contact me
 
-<a href="mailto:psjvieira@gmail.com">
-  <img width=20 title="Email" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Symbol-User-Email-Icon.png"/>
-</a>
-<a href="mailto:up202108768@up.pt">
-  <img width=20 title="Email" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Symbol-User-Email-Icon.png"/>
-</a>
-<a href="https://linkedin.com/in/pedro-januario-352421266">
-  <img width=20 title="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>
-</a>
+<img width=20 title="Email" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Symbol-User-Email-Icon.png"/> psjvieira@gmail.com<br>
+<img width=20 title="Email" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Symbol-User-Email-Icon.png"/> up202108768@edu.fe.up.pt<br>
+<img width=20 title="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/> <a href="https://linkedin.com/in/pedrojanuario">Linkedin</a>
