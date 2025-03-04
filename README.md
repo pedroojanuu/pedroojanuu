@@ -1,5 +1,7 @@
 # Pedro Januário
 
+![](https://komarev.com/ghpvc/?username=pedroojanuu&color=red)
+
 Born in Porto, Portugal. Currently enrolled in the <a href="https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2022&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=22841">Master's Degree in Informatics and Computing Engineering</a>, at <a href="http://up.pt/portal/en">University of Porto</a>.
 
 ## Academic Portfolio
