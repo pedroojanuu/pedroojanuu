@@ -30,6 +30,9 @@ Born in Porto, Portugal. Currently enrolled in the <a href="https://sigarra.up.p
 |2024|[DS](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=540677)|[_AI4SD_](https://github.com/pedroojanuu/ai4sd)|Webapp and VS Code extension AI component to scan code for security issues.|Python, Next.js/JS|17.60|
 |2024|[PRI](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=540678)|[Stack Overflow Search Engine](https://github.com/pedroojanuu/pri)|Search Engine for subset of Stack Overflow Q&A.|Python, Next.js/JS, Solr|17.50|
 |2025|[SGI](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=540680)|[Interactive Graphics Systems Assignments](https://github.com/pedroojanuu/sgi)|Three projects in Three.js, comprising scene definition, graphics engine development and 3D modelling/interaction techniques.|Three.js/JS|16.20 / 18.20 / 17.60|
+|2025|[MFS](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=543566)|[Mail Application Model in Alloy](https://github.com/pedroojanuu/mfs-tp1)|Modelation and testing of an hypotethical Mail application using the Alloy language.|Alloy|17.20|
+|2025|[MFS](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=543566)|[Mail Application Model in Dafny](https://github.com/pedroojanuu/mfs-tp2)|Design of an hypotethical Mail application using the Dafny language, under the design by contract principle.|Dafny|19.00|
+|2025|[LGP](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=540601)|[_Kwik Report_](https://github.com/pedroojanuu/kwikreport)|Video submission solution featuring mobile app and backend for automatic metadata extraction.|Flutter/Dart, Rust, Python|17.20|
 
 ## Contact me
 
